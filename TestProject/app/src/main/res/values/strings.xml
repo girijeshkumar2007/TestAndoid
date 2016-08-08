@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="hello_world">Hello world</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="submit">Submit</string>
+    <string name="nextbtn">Next</string>
+    <string name="title_activity_list">ListActivity</string>
+</resources>
